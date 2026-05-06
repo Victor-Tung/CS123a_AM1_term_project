@@ -2,7 +2,7 @@
 **Authors:** Victor Tung, Daphne Le, Bushra Naveed
 
 ## Overview
-This project investigates epigenetic differences between two mutant strains of *Methylorubrum extorquens* AM1 — evoHLn and 5642 — by comparing RNA sequencing read coverage at GANTC methylation sites and performing gene-level differential expression analysis.
+This project investigates epigenetic differences between two mutant strains of *Methylorubrum extorquens* AM1 — evoHLn and 5642(luteE) — by comparing RNA sequencing read coverage at GANTC methylation sites and performing gene-level differential expression analysis.
 
 ## Notebooks
 | Notebook | Description |
