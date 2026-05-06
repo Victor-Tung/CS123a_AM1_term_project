@@ -20,7 +20,7 @@ Place all files in `MyDrive/123a_term_project/` or desired location but will hav
 | `SRR17468317_1.fastq` | NCBI SRA accession SRR17468317 |
 | `SRR17468317_2.fastq` | NCBI SRA accession SRR17468317 |
 | `GCF_000022685.1_ASM2268v1_genomic.fna` | NCBI GCF_000022685.1 |
-| `genomic.gff` | NCBI GCF_000022685.1 |
+| `GCF_000022685.1_ASM2268v1_genomic.gff` | NCBI GCF_000022685.1 |
 
 ## How to Run
 
@@ -32,13 +32,11 @@ Place all files in `MyDrive/123a_term_project/` or desired location but will hav
 1. run cells sequentially
    
 
-## Output Files
+## Output Files Set In Drive
 | File | Description |
 |------|-------------|
 | `evoHLn.bam` | evoHLn alignment file |
 | `gantc_heatmap_normalized.png` | Top 50 GANTC sites heatmap |
-| `counts_evohln.txt` | Gene level counts for evoHLn |
-| `counts_5642.txt` | Gene level counts for 5642 |
 
 ## Notes
 - Do not close your laptop while Cell 4 is running or the alignment will stop for GANTC notebook
